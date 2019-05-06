@@ -1,0 +1,17 @@
+[USERS]
+firstnight = 
+firstnight_second = 
+firstday = 
+firstday_second = 
+thirdday = 
+thirdday_second = 
+fithday = 
+fithday_second = 
+
+[DATE]
+oncalldate = 
+
+[DAYLIGHT_SAVINGS]
+# Delete one or the other
+america_daylight = y/n
+
